@@ -7,9 +7,6 @@
 * `psql -d g2-rails-bug-01-development -f db/production.sql` <---- You have to do this.
 * `rails s`
 
-You can run specs with:
-
-* `rspec`
 
 ## Stories
 
@@ -23,7 +20,7 @@ What happens now:
 
 * You login
 * You logout
-*
+
 What should happen:
 
 * You login
